@@ -1,5 +1,5 @@
 Using the given code and [data](https://api.weather.gov/gridpoints/LWX/95,71/forecast):
-Display weather forecast for current week, separating daytime and nighttime, mention the following for each piece of forecast:
+1. Display weather forecast for current week, separating daytime and nighttime, mention the following for each piece of forecast:
    1. date
    2. weekday
    3. icon
